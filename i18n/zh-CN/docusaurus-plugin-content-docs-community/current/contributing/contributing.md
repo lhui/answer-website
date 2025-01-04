@@ -61,7 +61,7 @@ Apache Answer 是一个由热情的用户、贡献者和PMC成员共同打造的
 ##### 提供支持
 
 - 在 [Apache Answer Meta](https://meta.answer.dev)上解答其他用户的问题。
-- 回复并解决[邮箱列表](/community/support/#mailing-list)中的提问。
+- 回复并解决[邮箱列表](/community/support/#邮件列表)中的提问。
 
 ##### 推广 Apache Answer
 
