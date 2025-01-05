@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22
-title: The Packaging Process for Answer Plugins
+title: Answer Plugins 的封装过程
 authors: [LinkinStar]
 category: Tech
 featured: true
@@ -8,9 +8,9 @@ image: 2023-07-22-cover@4x.png
 description: "Let's discuss the design and implementation of the plugin system for Answer, and know why we design this way."
 
 ---
-> 1. Why is Answer's plugin system designed in such a way that it seems a bit of difficulty to use?
-> 2. How can I implement plugin functionality using Golang?
-> 3. What exactly does Answer's plugin system do when it is compiled and packaged?
+> 1. Answer 插件系统的设计为何似乎有些难用？
+> 2. 如何使用 Golang 实现插件功能？
+> 3. Answer 的插件系统在编译和打包时具体做了什么？
 
 ## Background
 You can build a Q&A community using answer easily. However, the basic features of Answer may not sufficiently support to every use case.
